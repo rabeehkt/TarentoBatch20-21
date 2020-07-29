@@ -1,4 +1,4 @@
-para = input()
+para = input("Enter the string: )
 vowels = 'aeiouAEIOU'
 consonants = 'bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ'
 new_para = ""
